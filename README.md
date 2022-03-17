@@ -1,6 +1,6 @@
 ![Mixins_In_Dart (1)](https://user-images.githubusercontent.com/36957530/158804903-4820ac90-dc63-449e-8ce0-979a45e7875d.png)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/WiamNaama/Mixins-In-Dart)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 # Mixins-In-Dart
 
