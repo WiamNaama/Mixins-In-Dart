@@ -2,11 +2,11 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-# Mixins-In-Dart
+# Mixins-In-Dart:
 
 This repo has a code for using Mixins in dart.
 
-## Installation
+## Installation:
 
 Just download the repo and you are good to go.
 
@@ -26,7 +26,7 @@ Here I have 4 classes and one mixin:
 - In order to use these functions in Boy, Dog, Girl classes I used Person class and mixin Walking.
 - The reason is that I want to share walk functionality in multiple classes without repeating the code.
 
-## License
+## License:
 
 MIT
 
