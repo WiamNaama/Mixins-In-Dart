@@ -1,12 +1,12 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/WiamNaama/Mixins-In-Dart)
+
 # Mixins-In-Dart
 
 This repo has a code for using Mixins in dart.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/WiamNaama/Mixins-In-Dart)
+## Installation
 
-## Instaliton
-
-Just donwload the repo and you are good to go..
+Just download the repo and you are good to go.
 
 ## Overview:
 
@@ -23,3 +23,9 @@ Here I have 4 classes and one mixin:
 - Here we have two functions the first one is cry() and the second is walk()
 - In order to use these functions in Boy, Dog, Girl classes I used Person class and mixin Walking.
 - The reason is that I want to share walk functionality in multiple classes without repeating the code.
+
+## License
+
+MIT
+
+**Free Software**
