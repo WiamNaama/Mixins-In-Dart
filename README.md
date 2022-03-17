@@ -2,7 +2,15 @@
 
 This repo has a code for using Mixins in dart.
 
-## Here I have 4 classes and one mixin:
+![GitHub last commit](https://img.shields.io/github/last-commit/WiamNaama/Mixins-In-Dart)
+
+## Instaliton
+
+Just donwload the repo and you are good to go..
+
+## Overview:
+
+Here I have 4 classes and one mixin:
 
 1. Boy class.
 2. Girl class.
