@@ -22,9 +22,13 @@ Here I have 4 classes and one mixin:
 
 ## What I did in this simple example:
 
-- Here we have two functions the first one is cry() and the second is walk()
+- Here we have two functions the first one is cry() and the second is walk().
 - In order to use these functions in Boy, Dog, Girl classes I used Person class and mixin Walking.
 - The reason is that I want to share walk functionality in multiple classes without repeating the code.
+
+## Note:
+
+- Mixins names should adjectives.
 
 ## License:
 
